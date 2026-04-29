@@ -1,0 +1,6 @@
+{
+  "name": "Classroom Spark",
+  "description": "An interactive teaching utility platform featuring a random student picker, scoreboard, classroom timer, and digital exam system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
